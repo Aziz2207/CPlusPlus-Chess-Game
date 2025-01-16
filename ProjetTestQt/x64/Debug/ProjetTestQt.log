@@ -1,0 +1,105 @@
+﻿  ChessBoard.cpp
+  GameState.cpp
+  MainWindow.cpp
+  Square.cpp
+  main.cpp
+C:\Users\Admin\Downloads\TP6_INF1015\GameState.cpp(82,119): warning C4100: 'pieceToCheck' : paramètre formel non référencé
+C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(75,17): warning C4127: l'expression conditionnelle est une constante
+  (compiler le fichier source 'MainWindow.cpp')
+  C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(75,17):
+  utilisez l'instruction 'if constexpr' à la place
+  C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(75,17):
+  le contexte d’instanciation du modèle (le plus ancien) est
+  	C:\Qt\6.5.3\msvc2019_64\include\QtCore\qsequentialiterable.h(110,14):
+  	voir la référence à l'instanciation classe modèle 'QTaggedIterator<QSequentialIterator,void>' en cours de compilation
+  	C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(71,5):
+  	pendant la compilation de la fonction membre classe modèle 'QTaggedIterator<QSequentialIterator,void>::QTaggedIterator(Iterator &&)'
+          with
+          [
+              Iterator=QSequentialIterator
+          ]
+  		C:\Qt\6.5.3\msvc2019_64\include\QtCore\qsequentialiterable.h(110,31):
+  		voir la première référence à « QTaggedIterator<QSequentialIterator,void>::QTaggedIterator » dans « QSequentialIterable::mutableBegin »
+  
+C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(81,17): warning C4127: l'expression conditionnelle est une constante
+  (compiler le fichier source 'MainWindow.cpp')
+  C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(81,17):
+  utilisez l'instruction 'if constexpr' à la place
+  
+C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(87,17): warning C4127: l'expression conditionnelle est une constante
+  (compiler le fichier source 'MainWindow.cpp')
+  C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(87,17):
+  utilisez l'instruction 'if constexpr' à la place
+  
+C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(93,17): warning C4127: l'expression conditionnelle est une constante
+  (compiler le fichier source 'MainWindow.cpp')
+  C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(93,17):
+  utilisez l'instruction 'if constexpr' à la place
+  
+C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(75,17): warning C4127: l'expression conditionnelle est une constante
+  (compiler le fichier source 'main.cpp')
+  C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(75,17):
+  utilisez l'instruction 'if constexpr' à la place
+  C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(75,17):
+  le contexte d’instanciation du modèle (le plus ancien) est
+  	C:\Qt\6.5.3\msvc2019_64\include\QtCore\qsequentialiterable.h(110,14):
+  	voir la référence à l'instanciation classe modèle 'QTaggedIterator<QSequentialIterator,void>' en cours de compilation
+  	C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(71,5):
+  	pendant la compilation de la fonction membre classe modèle 'QTaggedIterator<QSequentialIterator,void>::QTaggedIterator(Iterator &&)'
+          with
+          [
+              Iterator=QSequentialIterator
+          ]
+  		C:\Qt\6.5.3\msvc2019_64\include\QtCore\qsequentialiterable.h(110,31):
+  		voir la première référence à « QTaggedIterator<QSequentialIterator,void>::QTaggedIterator » dans « QSequentialIterable::mutableBegin »
+  
+C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(81,17): warning C4127: l'expression conditionnelle est une constante
+  (compiler le fichier source 'main.cpp')
+  C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(81,17):
+  utilisez l'instruction 'if constexpr' à la place
+  
+C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(87,17): warning C4127: l'expression conditionnelle est une constante
+  (compiler le fichier source 'main.cpp')
+  C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(87,17):
+  utilisez l'instruction 'if constexpr' à la place
+  
+C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(93,17): warning C4127: l'expression conditionnelle est une constante
+  (compiler le fichier source 'main.cpp')
+  C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(93,17):
+  utilisez l'instruction 'if constexpr' à la place
+  
+  moc_MainWindow.cpp
+C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(75,17): warning C4127: l'expression conditionnelle est une constante
+  (compiler le fichier source 'ProjetTestQt/x64/Debug/moc/moc_MainWindow.cpp')
+  C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(75,17):
+  utilisez l'instruction 'if constexpr' à la place
+  C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(75,17):
+  le contexte d’instanciation du modèle (le plus ancien) est
+  	C:\Qt\6.5.3\msvc2019_64\include\QtCore\qsequentialiterable.h(110,14):
+  	voir la référence à l'instanciation classe modèle 'QTaggedIterator<QSequentialIterator,void>' en cours de compilation
+  	C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(71,5):
+  	pendant la compilation de la fonction membre classe modèle 'QTaggedIterator<QSequentialIterator,void>::QTaggedIterator(Iterator &&)'
+          with
+          [
+              Iterator=QSequentialIterator
+          ]
+  		C:\Qt\6.5.3\msvc2019_64\include\QtCore\qsequentialiterable.h(110,31):
+  		voir la première référence à « QTaggedIterator<QSequentialIterator,void>::QTaggedIterator » dans « QSequentialIterable::mutableBegin »
+  
+C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(81,17): warning C4127: l'expression conditionnelle est une constante
+  (compiler le fichier source 'ProjetTestQt/x64/Debug/moc/moc_MainWindow.cpp')
+  C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(81,17):
+  utilisez l'instruction 'if constexpr' à la place
+  
+C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(87,17): warning C4127: l'expression conditionnelle est une constante
+  (compiler le fichier source 'ProjetTestQt/x64/Debug/moc/moc_MainWindow.cpp')
+  C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(87,17):
+  utilisez l'instruction 'if constexpr' à la place
+  
+C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(93,17): warning C4127: l'expression conditionnelle est une constante
+  (compiler le fichier source 'ProjetTestQt/x64/Debug/moc/moc_MainWindow.cpp')
+  C:\Qt\6.5.3\msvc2019_64\include\QtCore\qiterable.h(93,17):
+  utilisez l'instruction 'if constexpr' à la place
+  
+     Création de la bibliothèque C:\Users\Admin\Downloads\TP6_INF1015\x64\Debug\ProjetTestQt.lib et de l'objet C:\Users\Admin\Downloads\TP6_INF1015\x64\Debug\ProjetTestQt.exp
+  ProjetTestQt.vcxproj -> C:\Users\Admin\Downloads\TP6_INF1015\x64\Debug\ProjetTestQt.exe
